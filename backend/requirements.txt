@@ -18,3 +18,4 @@ sqlalchemy-utils==0.36.8
 python-multipart==0.0.5
 pyjwt==1.7.1
 urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
+starlette>=0.25.0 # not directly required, pinned by Snyk to avoid a vulnerability
