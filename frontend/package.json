@@ -9,7 +9,7 @@
     "react-admin": "^3.5.2",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "4.0.0",
+    "react-scripts": "5.0.0",
     "react-truncate": "^2.4.0",
     "standard": "^16.0.4",
     "jwt-decode": "^3.0.0",
@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "typescript": "^4.0.2",
-    "@testing-library/jest-dom": "^5.11.1",
+    "@testing-library/jest-dom": "^6.0.0",
     "@testing-library/react": "^11.0.4",
     "@typescript-eslint/eslint-plugin": "^2.24.0",
     "@typescript-eslint/parser": "^2.24.0",
